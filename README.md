@@ -1,5 +1,5 @@
-# nginx-init-script
-nginx init script for Ubuntu 16.04
+# nginx init script for Ubuntu 16.04
+
 
 Download this script to your server and place it at 
 ```
